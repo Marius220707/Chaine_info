@@ -1,5 +1,5 @@
-#Chaîne d'info
+# Chaîne d'info
 
-##Diagramme:
+## Diagramme:
 
 Algorigramme Activité 4
