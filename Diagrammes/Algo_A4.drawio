@@ -11,10 +11,13 @@
           <mxGeometry height="80" width="160" x="334" y="200" as="geometry" />
         </mxCell>
         <mxCell id="VZ5CbiQ7fF3JN0Boz76V-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 13 à haut" vertex="1">
-          <mxGeometry height="60" width="149" x="339.5" y="310" as="geometry" />
+          <mxGeometry height="60" width="150.5" x="334" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="369" y="400" as="geometry" />
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 8 à bas" vertex="1">
+          <mxGeometry height="60" width="156" x="328.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 12 à bas" vertex="1">
+          <mxGeometry height="60" width="160" x="324.5" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
