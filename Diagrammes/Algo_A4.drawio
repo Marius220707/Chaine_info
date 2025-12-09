@@ -10,13 +10,13 @@
         <mxCell id="Q8oZJ3vgDALm0Yl6XneO-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Lire la broche 11" vertex="1">
           <mxGeometry height="80" width="160" x="160" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 13 à haut" vertex="1">
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 13 à Haut" vertex="1">
           <mxGeometry height="60" width="150.5" x="164.75" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 8 à bas" vertex="1">
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 8 à Bas" vertex="1">
           <mxGeometry height="60" width="156" x="162" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre broche 12 à bas" vertex="1">
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 12 à Bas" vertex="1">
           <mxGeometry height="60" width="160" x="160" y="490" as="geometry" />
         </mxCell>
         <mxCell id="VZ5CbiQ7fF3JN0Boz76V-7" edge="1" parent="1" source="VZ5CbiQ7fF3JN0Boz76V-1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Q8oZJ3vgDALm0Yl6XneO-1" value="">
@@ -41,6 +41,47 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="260" as="sourcePoint" />
             <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-14" edge="1" parent="1" source="VZ5CbiQ7fF3JN0Boz76V-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="640" />
+              <mxPoint x="80" y="640" />
+              <mxPoint x="80" y="180" />
+            </Array>
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 12 à haut" vertex="1">
+          <mxGeometry height="60" width="156" x="400" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-16" edge="1" parent="1" source="Q8oZJ3vgDALm0Yl6XneO-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VZ5CbiQ7fF3JN0Boz76V-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="230" />
+            </Array>
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 8 à haut" vertex="1">
+          <mxGeometry height="60" width="152" x="404" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Mettre Broche 13 à Bas" vertex="1">
+          <mxGeometry height="60" width="150" x="403" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-19" edge="1" parent="1" source="VZ5CbiQ7fF3JN0Boz76V-17" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="VZ5CbiQ7fF3JN0Boz76V-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZ5CbiQ7fF3JN0Boz76V-20" edge="1" parent="1" source="VZ5CbiQ7fF3JN0Boz76V-17" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="VZ5CbiQ7fF3JN0Boz76V-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
